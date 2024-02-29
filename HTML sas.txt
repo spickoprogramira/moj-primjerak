@@ -1,0 +1,30 @@
+<!<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>kurcina</title>
+  <style>
+    html{background-color: skyblue;}
+    h1{color: brown;}
+    h1{text-align: center;}
+    h2{text-decoration: double}
+
+
+  </style>
+</head>
+  <body>
+    <h1>Kospa haker</h1>
+    <h2>Imam malen penis</h2>
+    <h3>Takav sam rodjen</h3>
+    <h3>Jebako ukupno 3 ipo puta</h3>
+    <li>Pjan</li>
+    <li>Pjan</li>
+    <li>Pjan</li>
+    <li>I jos pola puta jednom pjan</li>
+    </ol>
+    <hr>
+    <a href="./download.jpeg">Klikni ovdje da vidis moj primjerak</a>
+
+  </body>
+  </html>
